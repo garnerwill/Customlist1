@@ -1,0 +1,7 @@
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\bin\Debug\CustomListProject.exe.config
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\bin\Debug\CustomListProject.exe
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\bin\Debug\CustomListProject.pdb
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\obj\Debug\CustomListProject.csprojAssemblyReference.cache
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\obj\Debug\CustomListProject.csproj.CoreCompileInputs.cache
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\obj\Debug\CustomListProject.exe
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CustomListProject\obj\Debug\CustomListProject.pdb

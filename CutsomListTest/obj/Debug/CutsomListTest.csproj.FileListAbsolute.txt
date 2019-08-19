@@ -1,0 +1,17 @@
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\obj\Debug\CutsomListTest.csprojAssemblyReference.cache
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\obj\Debug\CutsomListTest.csproj.CoreCompileInputs.cache
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\CutsomListTest.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\CutsomListTest.pdb
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\CustomListProject.exe
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\CustomListProject.pdb
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\CustomListProject.exe.config
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\obj\Debug\CutsomListTest.csproj.CopyComplete
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\obj\Debug\CutsomListTest.dll
+C:\Users\gee6w\Desktop\CustomList\CustomListProject\CutsomListTest\obj\Debug\CutsomListTest.pdb
